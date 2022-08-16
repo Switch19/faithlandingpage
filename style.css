@@ -220,6 +220,7 @@ button:hover {
   letter-spacing: 2px;
   margin: 0.8em 1.5em 0.2em 0;
   text-align: end;
+  color: #0d0050;
 }
 
 .main-head span {
@@ -228,12 +229,13 @@ button:hover {
 }
 
 .main-head h3 {
-  color: #b1b1b1;
+  color: #ffffff;
   margin-right: 6.6em;
   font-size: 1.1em;
   font-family: sans-serif;
   padding-bottom: 15px;
   text-align: end;
+  font-weight: 600;
 }
 
 .explore {
